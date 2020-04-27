@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
-
 
 ### Description 
 
-CLASS MANGER APP
+##CLASS MANGER APP
 
 APP CAPABILITIES:
 
